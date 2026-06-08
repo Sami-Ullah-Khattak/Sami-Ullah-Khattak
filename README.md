@@ -159,4 +159,6 @@ Started as a UI developer, grew into application architecture. I care about clea
 
 <div align="center">
 <sub>Built with precision · Islamabad, Pakistan 🇵🇰</sub>
-</div>
+</div>     
+
+![Snake animation](https://github.com/Sami-Ullah-Khattak/Sami-Ullah-Khattak/blob/output/github-contribution-grid-snake.svg)
