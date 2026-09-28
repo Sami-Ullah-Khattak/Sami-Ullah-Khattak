@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samiiktk)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/04467565kjhj/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sami-Ullah-Khattak&style=flat-square&color=714B67&label=PROFILE+VIEWS)
+
 ![Followers](https://img.shields.io/github/followers/Sami-Ullah-Khattak?style=flat-square&color=58a6ff&labelColor=0d1117)
 ![Repos](https://img.shields.io/badge/Open_to-Odoo_Projects-714B67?style=flat-square&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Islamabad-Pakistan_🇵🇰-01411C?style=flat-square&labelColor=0d1117)
