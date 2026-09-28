@@ -204,12 +204,12 @@ timeline
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sami-Ullah-Khattak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami-Ullah-Khattak&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sami-Ullah-Khattak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" /> -->
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami-Ullah-Khattak&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" /> -->
 
 <img src="https://streak-stats.demolab.com/?user=Sami-Ullah-Khattak&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sami-Ullah-Khattak&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sami-Ullah-Khattak&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" /> -->
 
 </div>
 
@@ -223,13 +223,6 @@ timeline
 </picture>
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sami-Ullah-Khattak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
