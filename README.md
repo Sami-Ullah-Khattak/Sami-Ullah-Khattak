@@ -9,15 +9,17 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-ullah-khattak-3a400625a/)
+[![Google Dev Profile](https://img.shields.io/badge/Google_Dev_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/samiu)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiulahktk@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samiiktk)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/04467565kjhj/)
 
+<br/>
 
 ![Followers](https://img.shields.io/github/followers/Sami-Ullah-Khattak?style=flat-square&color=58a6ff&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/Open_to-Odoo_Projects-714B67?style=flat-square&labelColor=0d1117)
-![Location](https://img.shields.io/badge/Islamabad-Pakistan_🇵🇰-01411C?style=flat-square&labelColor=0d1117)
+![Open To](https://img.shields.io/badge/Open_to-Odoo_Projects-714B67?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan%20🇵🇰-01411C?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -27,14 +29,14 @@
 
 ```python
 class SamiUllahKhattak:
-    role       = "Software Engineer @ eAlam Group"
-    location   = "Islamabad, Pakistan 🇵🇰"
-    experience = "3+ years building production web & mobile apps"
+    role        = "Software Engineer @ eAlam Group"
+    location    = "Islamabad, Pakistan 🇵🇰"
+    experience  = "3+ years building production web, mobile & ERP apps"
 
-    focus      = ["Odoo ERP", "QWeb Reports", "Custom Workflows", "Docker Deployments"]
+    focus       = ["Odoo ERP", "QWeb Reports", "Custom Workflows", "Docker Deployments"]
     also_builds = ["React", "React Native", "TypeScript", "Flask APIs"]
 
-    philosophy = "Clean code. Solid UX. Systems that scale."
+    philosophy  = "Clean code. Solid UX. Systems that scale."
 
     def journey(self):
         return "HTML/CSS → React → Odoo → Dockerized ERPs 🐳"
@@ -74,6 +76,28 @@ Started as a UI developer, grew into application architecture. Today I build **O
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 Google Developer Profile & Badges
+
+<div align="center">
+
+<a href="https://me.developers.google.com/u/samiu">
+  <img src="https://img.shields.io/badge/Google_Developer-Verified_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile"/>
+</a>
+
+<br/><br/>
+
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](#)
+[![Google Play](https://img.shields.io/badge/Google_Play-412991?style=flat-square&logo=google-play&logoColor=white)](#)
+[![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)](#)
+
+<p><em>Check out my contributions, earned badges, and developer accomplishments on my official <a href="https://me.developers.google.com/u/samiu">Google Developer Profile</a>!</em></p>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -117,7 +141,7 @@ pie showData title Where my time goes
 
 ## 🧪 Code I Enjoy Writing
 
-A small Odoo model with a computed field and a workflow action, the kind of thing I build every day:
+A small Odoo model with a computed field and a workflow action:
 
 ```python
 from odoo import models, fields, api
@@ -155,7 +179,8 @@ services:
   odoo:
     image: odoo:20
     depends_on: [db]
-    ports: 127.0.0.1:${ODOO_EXT_PORT}:8069"
+    ports:
+      - "127.0.0.1:${ODOO_EXT_PORT}:8069"
     volumes:
       - ./addons:/mnt/extra-addons
       - odoo-data:/var/lib/odoo
@@ -204,12 +229,7 @@ timeline
 
 <div align="center">
 
-<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sami-Ullah-Khattak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" /> -->
-<!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami-Ullah-Khattak&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" /> -->
-
 <img src="https://streak-stats.demolab.com/?user=Sami-Ullah-Khattak&theme=tokyonight&hide_border=true" />
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sami-Ullah-Khattak&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" /> -->
 
 </div>
 
@@ -223,6 +243,20 @@ timeline
 </picture>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⭐ Client Feedback & Reviews
+
+<div align="center">
+
+> ### 💬 Worked with me or used my services?
+> If you enjoyed my work, please consider leaving a **5-star review** on my official Google Business Profile! Your feedback is hugely appreciated.
+
+<br/>
+
+[![Leave a Review on Google](https://img.shields.io/badge/⭐_Leave_a_Google_Review-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.page/r/CVELP6jky-IlEAI/review)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -247,6 +281,7 @@ timeline
 <br/>
 
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-ullah-khattak-3a400625a/)
+[![Google Dev Profile](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/samiu)
 [![Send Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiulahktk@gmail.com)
 [![Hire on Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
 
